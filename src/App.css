@@ -5,3 +5,7 @@ header {
 header img{
     height: 400px;
 }
+
+.country-card{
+    border:1px dashed grey;
+}
